@@ -1,2 +1,2 @@
 # ReactTraining
-React Training
+React Training Iustin Butnariu
