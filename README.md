@@ -1,2 +1,1 @@
-# ReactTraining
-React Training
+First Steps in React
