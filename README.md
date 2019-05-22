@@ -1,2 +1,1 @@
-# ReactTraining
-React Training
+# ReactJS Training Iustin Butnariu
