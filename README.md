@@ -1,2 +1,1 @@
-# ReactTraining
-React Training Iustin Butnariu
+First Steps in React
